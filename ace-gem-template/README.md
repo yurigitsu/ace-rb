@@ -1,16 +1,31 @@
 # ace-XXXXX
 
+Ruby gem created to simplify ...
 
-**ace-XXXXX** is a Ruby gem created to s
+- **ace-XXXXX** provides ...
 
-**ace-XXXXX** provides 
+- **ace-XXXXX** offers ...
 
-**ace-XXXXX** offers 
+- **ace-XXXXX** supports ...
 
-**ace-XXXXX** supports 
+
+## Features
+
+- **Simple ...**: Easily ...
+- **Built-in ...**: Utilize various ...
+
+## Table of Contents
+- [Installation](#installation)
+- [Basic Usage](#basic-usage)
+- Features Details
+  - [Define ...](#features-details)
+- OSS
+  - [Development](#development)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Code of Conduct](#code-of-conduct)
 
 ## Installation
-
 Install the gem and add to the application's Gemfile by executing:
 
 ```bash
@@ -25,6 +40,17 @@ gem install ace-XXXXX
 
 ## Basic Usage
 
+```ruby
+require 'ace_XXXXX'
+```
+
+## Features Details
+
+The `AceXXXXX` module allows you to ...
+
+```ruby
+require 'ace_XXXXX'
+```
 
 ## Development
 
