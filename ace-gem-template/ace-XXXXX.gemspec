@@ -12,8 +12,8 @@ Gem::Specification.new do |spec|
   spec.email   = ["yurigi.pro@gmail.com"]
   spec.license = "MIT"
 
-  spec.summary     = "A flexible and easy-to-use configuration handling gem."
-  spec.description = "Managing configurations with type validation, configirations load and dumping support."
+  spec.summary     = "A flexible and easy-to-use ...."
+  spec.description = "Managing and ...."
   spec.homepage    = "https://github.com/yurigitsu/#{spec.name}"
 
   spec.required_ruby_version = ">= 3.0.0"
@@ -33,5 +33,5 @@ Gem::Specification.new do |spec|
 
   spec.metadata["rubygems_mfa_required"] = "true"
 
-  spec.add_dependency "bigdecimal"
+  # spec.add_dependency "some-gem", "~> 3.0"
 end
