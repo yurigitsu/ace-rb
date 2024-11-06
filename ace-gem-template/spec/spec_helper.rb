@@ -14,5 +14,5 @@ RSpec.configure do |config|
   end
 
   Dir[File.join("./spec/support/**/*.rb")].each { |f| require f }
-  config.include XXXXXHelper
+  config.include XXXXXH
 end

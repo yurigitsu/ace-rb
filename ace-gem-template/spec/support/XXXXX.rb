@@ -1,11 +1,11 @@
 # frozen_string_literal: true
 
-module XXXXXHelper
+module XXXXX
   # Creates a helper XXXXX
   #
   # This method XXXXX
   #
   # @example XXXXX
-  def XXXXX_helper_XXXXX
-  end
+  # Follows pattern: #{folder_name}_#{helper_name}_#{method_name}
+  def support_XXXXX_XXXXX; end
 end
