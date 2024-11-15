@@ -2,5 +2,10 @@
 
 require "spec_helper"
 
-RSpec.describe "AceXXXX" do
+RSpec.describe "BigBang" do
+  describe "Init Stub" do
+    it "works" do
+      expect(true).to be(true)
+    end
+  end
 end

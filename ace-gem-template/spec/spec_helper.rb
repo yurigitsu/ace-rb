@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require "ace_XXXX"
+require "ace_XXXXX"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
