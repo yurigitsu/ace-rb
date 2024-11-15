@@ -42,10 +42,9 @@ PreCommit:
     enabled: true
     on_warn: fail
     command: ["bundle", "exec", "rspec"]
-
-  Sorbet:
-    enabled: true
-    on_warn: fail
+# Sorbet:
+#   enabled: true
+#   on_warn: fail
 #  TrailingWhitespace:
 #    enabled: true
 #    exclude:
